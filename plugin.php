@@ -19,7 +19,7 @@
 
 /**
  * Loading `WP_EXT_News`.
- * ------------------------------------------------------------------------------------------------------------------ */
+ */
 
 function run_wp_ext_news() {
 	require_once( plugin_dir_path( __FILE__ ) . 'includes/WP_EXT_News.class.php' );
